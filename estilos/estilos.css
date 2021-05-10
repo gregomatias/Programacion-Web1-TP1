@@ -1,0 +1,32 @@
+/*Estilo de listas desordenadas */
+li { font-size:1.5em;
+    
+}
+h1{
+    font-size:2.5em;
+}
+
+/*Estilo tablas */
+
+table{
+    font-size:1em;
+    border-style: ridge;
+}
+caption{
+    font-size:1em;
+    color:cadetblue;
+}
+
+th { 
+    border-style: ridge;
+    text-align: left;
+}
+td { 
+    border-style: ridge;
+      text-align: left;
+}
+.ordencentrado{
+    text-align: center;
+}
+
+
